@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { business } from "@/lib/business";
 
-const logo = "/images/dwright-logo.svg";
+const logo = "/images/d-wright-logo.png";
 
 const navLinks = [
   { label: "Services", href: "/#services" },

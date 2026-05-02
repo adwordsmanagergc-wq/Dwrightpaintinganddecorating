@@ -29,7 +29,7 @@ import {
   Loader2,
 } from "lucide-react";
 
-const logo = "/images/dwright-logo.svg";
+const logo = "/images/d-wright-logo.png";
 
 const carouselImages = [
   "https://019dd2de-2dde-76b6-a072-f34ccc1f4bc2.mochausercontent.com/WhatsApp-Image-2026-05-01-at-19.04.15-(1).jpeg",
