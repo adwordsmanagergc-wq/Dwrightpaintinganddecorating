@@ -30,7 +30,7 @@ export default function SuburbLayout({ children }: { children: React.ReactNode }
               <img
                 src={logo}
                 alt="D Wright Painting & Decorating Logo"
-                className="h-12 md:h-16 w-auto"
+                className="h-6 md:h-8 w-auto"
               />
             </Link>
 
