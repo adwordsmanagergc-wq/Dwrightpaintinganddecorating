@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" role="img" aria-label="D Wright Painting and Decorating">
+  <defs>
+    <style>
+      .brand { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; fill: #1d3a8a; }
+      .name { font-weight: 700; font-size: 130px; letter-spacing: 4px; }
+      .tag  { font-family: 'Inter', Arial, Helvetica, sans-serif; font-weight: 500; font-size: 36px; letter-spacing: 11px; fill: #1d3a8a; }
+      .stroke { stroke: #1d3a8a; stroke-width: 3; fill: none; stroke-linecap: round; }
+    </style>
+  </defs>
+  <text x="400" y="170" text-anchor="middle" class="brand name">D WRIGHT</text>
+  <text x="400" y="225" text-anchor="middle" class="tag">PAINTING + DECORATING</text>
+  <!-- decorative brush flourish -->
+  <path class="stroke" d="M120 280 C 220 250, 320 310, 420 280 S 620 250, 700 280" />
+  <path d="M695 270 l 50 -10 l 5 25 l -50 10 z" fill="#1d3a8a"/>
+  <circle cx="465" cy="305" r="6" fill="#1d3a8a"/>
+</svg>
