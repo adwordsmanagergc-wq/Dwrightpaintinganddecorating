@@ -42,6 +42,22 @@ const serviceList = [
     ),
   },
   {
+    title: "Wallpapering",
+    desc: "Expert wallpaper hanging, removal, and feature wall installation with flawless seams and pattern matching.",
+    icon: (
+      <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6 text-[#1d3a8a]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <rect x="3" y="3" width="6" height="6" />
+        <rect x="15" y="3" width="6" height="6" />
+        <rect x="3" y="15" width="6" height="6" />
+        <rect x="15" y="15" width="6" height="6" />
+        <line x1="9" y1="6" x2="15" y2="6" />
+        <line x1="9" y1="18" x2="15" y2="18" />
+        <line x1="6" y1="9" x2="6" y2="15" />
+        <line x1="18" y1="9" x2="18" y2="15" />
+      </svg>
+    ),
+  },
+  {
     title: "New Builds & Repaints",
     desc: "Premium paint finishes for new construction and complete repaint projects across Perth.",
     icon: (

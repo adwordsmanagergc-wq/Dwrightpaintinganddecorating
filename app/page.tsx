@@ -27,6 +27,7 @@ import {
   X,
   MessageCircle,
   Loader2,
+  Wallpaper,
 } from "lucide-react";
 
 const logo = "/images/d-wright-logo.png";
@@ -46,6 +47,7 @@ const services = [
   { icon: Home, title: "Interior Painting", desc: "Transform your living spaces with flawless interior finishes" },
   { icon: Building2, title: "Exterior Painting", desc: "Weather-resistant coatings that protect and beautify" },
   { icon: Layers, title: "Roof Painting", desc: "Extend your roof's life with professional restoration" },
+  { icon: Wallpaper, title: "Wallpapering", desc: "Expert wallpaper hanging, removal, and feature wall installation" },
   { icon: Paintbrush, title: "Decorative Finishes", desc: "Feature walls, textures, and specialty coatings" },
   { icon: Building2, title: "Commercial Work", desc: "Minimal disruption, maximum impact for businesses" },
   { icon: Hammer, title: "New Builds", desc: "Premium finishes for new construction projects" },
@@ -585,8 +587,9 @@ export default function DWrightPaintingPage() {
                     <option value="interior">Interior Painting</option>
                     <option value="exterior">Exterior Painting</option>
                     <option value="roof">Roof Painting</option>
+                    <option value="wallpapering">Wallpapering</option>
                     <option value="decorative">Decorative Finishes</option>
-  <option value="commercial">Commercial Work</option>
+                    <option value="commercial">Commercial Work</option>
                     <option value="other">Other</option>
                   </select>
                 </div>
